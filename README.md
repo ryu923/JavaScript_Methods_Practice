@@ -1,2 +1,2 @@
-# JavaScript_Methods_Practice
+# JavaScript Methods Practice
 JavaScript Methods Practice
